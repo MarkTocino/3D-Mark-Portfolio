@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion';
 import { styles } from '../styles';
-// import { ComputerCanvas } from './canvas'
+import { ComputersCanvas } from './canvas'
 
 const Hero = () => {
   return (
@@ -16,6 +16,7 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>Junior Software <br  className='sm:block hidden'/> Developer</p>
         </div>
       </div>
+      <ComputersCanvas/>
     </section>
   )
 }
