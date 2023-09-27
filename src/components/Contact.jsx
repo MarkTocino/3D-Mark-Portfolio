@@ -12,7 +12,7 @@ import { a } from 'maath/dist/objectSpread2-284232a6.esm'
 //template_beki2iq
 //API : QKIbSvUA_l17p1F1k
 const Contact = () => {
-  const formref = useRef()
+  const formRef = useRef()
   const [form, setForm] = useState({
     name:'',
     email:'',
@@ -59,7 +59,7 @@ const Contact = () => {
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
         <form
-        // ref={formRef}
+        ref={formRef}
         onSubmit={handleSubmit}
         className='mt-12 flex flex-col gap-8'>
           <label className='flex flex-col'>
