@@ -25,12 +25,17 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import Mcdonald from "./company/Mcdonald.png"
+import FS from "./company/FS.png"
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import JDM from "./JDM.png"
 
 export {
+  FS,
   logo,
   backend,
   creator,
@@ -59,4 +64,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  Mcdonald,
+  JDM,
 };

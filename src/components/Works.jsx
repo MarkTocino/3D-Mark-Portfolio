@@ -60,7 +60,7 @@ const Works = () => {
       </motion.div>
       <div className='w-full flex'>
         <motion.p variants={fadeIn("","", 0.1,1)} className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-          Description... Sayuing like what skills you showed in your project
+        These projects were crafted during my tenure at Flatiron School as part of my comprehensive training in software engineering. Each project served as a practical application of the skills and knowledge I acquired during my coursework, allowing me to demonstrate my proficiency in various aspects of software development.
         </motion.p>
       </div>
 
