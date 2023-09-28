@@ -56,10 +56,6 @@ import {
       title: "Backend Developer",
       icon: backend,
     },
-    {
-      title: "Full Stack Developer",
-      icon: creator,
-    },
   ];
   
   const technologies = [
@@ -124,9 +120,9 @@ import {
       date: "June 2023 - September 2023",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Collaborated with colleagues to work in projects to learn how to share and work on projects together",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Implemented and Improved Full Stack Web Apps to fit requirements.",
       ],
     },
   ];
