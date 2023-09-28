@@ -161,5 +161,4 @@ import {
       source_code_link: "https://github.com/MarkTocino/PhaseFiveProject",
     },
   ];
-  
   export { services, technologies, experiences, testimonials, projects };
