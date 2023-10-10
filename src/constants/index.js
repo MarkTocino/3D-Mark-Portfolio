@@ -83,6 +83,14 @@ import {
       name: "Three JS",
       icon: threejs,
     },
+    {
+      name: "Node.js",
+      icon: nodejs,
+    },
+    {
+      name: "MongoDB",
+      icon: mongodb,
+    },
   ];
   
   const experiences = [
