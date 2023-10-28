@@ -33,6 +33,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import JDM from "./JDM.png"
+import Pastabilities from "./Pastabilities.png";
 
 export {
   FS,
@@ -66,4 +67,5 @@ export {
   tripguide,
   Mcdonald,
   JDM,
+  Pastabilities,
 };

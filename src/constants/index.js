@@ -26,6 +26,7 @@ import {
     Mcdonald,
     FS,
     JDM,
+    Pastabilities,
   } from "../assets";
   
   export const navLinks = [
@@ -153,7 +154,7 @@ import {
         "Social Media App platform based on cars and modifications. Enables users to login, post, and like posts.",
       tags: [
         {
-          name: "react",
+          name: "next.js",
           color: "blue-text-gradient",
         },
         {
@@ -167,6 +168,27 @@ import {
       ],
       image: JDM,
       source_code_link: "https://github.com/MarkTocino/PhaseFiveProject",
+    },
+    {
+      name: "Pastabilities Menu Website",
+      description:
+        "Example menu for a restaurant built with Next.js and Pocketbase. This is Deployed as well. https://marktocino-italianmenu.vercel.app/appetizers",
+      tags: [
+        {
+          name: "next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "pocketbase",
+          color: "white-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: Pastabilities,
+      source_code_link: "https://github.com/MarkTocino/BasicMernMenu",
     },
   ];
   export { services, technologies, experiences, testimonials, projects };
