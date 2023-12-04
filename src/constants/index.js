@@ -27,6 +27,7 @@ import {
     FS,
     JDM,
     Pastabilities,
+    Honda,
   } from "../assets";
   
   export const navLinks = [
@@ -190,5 +191,26 @@ import {
       image: Pastabilities,
       source_code_link: "https://github.com/MarkTocino/BasicMernMenu",
     },
+    {
+      name: "Honda E-Commerce Website",
+      description:
+        "Example of E-Commerce website that allows users to buy cars online and use stripe as a form of payment. This website is deployed as well and can be viewed at https://honda-e-commerce.vercel.app/",
+      tags: [
+        {
+          name: "next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "MongoDB",
+          color: "white-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+      ],
+      image: Honda,
+      source_code_link: "https://github.com/MarkTocino/mernToDo",
+    }
   ];
   export { services, technologies, experiences, testimonials, projects };

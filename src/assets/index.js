@@ -34,6 +34,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import JDM from "./JDM.png"
 import Pastabilities from "./Pastabilities.png";
+import Honda from "./HondaEcommerce.png"
 
 export {
   FS,
@@ -68,4 +69,5 @@ export {
   Mcdonald,
   JDM,
   Pastabilities,
+  Honda,
 };
